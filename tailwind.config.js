@@ -16,8 +16,8 @@ module.exports = {
         White: "hsl(0, 0%, 100%)",
       },
       fontFamily: {
-        Barlow: ["Barlow", sans - serif],
-        Fraunces: ["Fraunces", serif],
+        Barlow: ["Barlow", "sans-serif"],
+        Fraunces: ["Fraunces", "serif"],
       },
     },
   },
